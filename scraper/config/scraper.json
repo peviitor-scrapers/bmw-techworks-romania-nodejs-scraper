@@ -1,0 +1,22 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutMs": 10000,
+  "pageDelayMs": 1000,
+  "rendering": { "mode": "static", "waitSelector": "", "timeoutMs": 30000 },
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["Cluj-Napoca"],
+  "defaultWorkmode": "hybrid",
+  "ownJobUrlPrefix": "https://careers.bmwtechworks.ro/jobs/",
+  "sources": {
+    "sitemap": "",
+    "feed": "https://careers.bmwtechworks.ro/jobs.json",
+    "listing": "https://careers.bmwtechworks.ro/jobs",
+    "jobArchive": "https://careers.bmwtechworks.ro/jobs/"
+  },
+  "selectors": {
+    "jobArticle": ["", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": ["", "p, .meta, [class*='deadline']"]
+  }
+}

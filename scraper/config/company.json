@@ -1,0 +1,10 @@
+{
+  "id": "49775344",
+  "company": "BMW TECHWORKS ROMANIA S.R.L.",
+  "brand": "BMW TechWorks Romania",
+  "status": "activ",
+  "location": ["Cluj-Napoca"],
+  "website": ["https://www.bmwtechworks.ro"],
+  "career": ["https://careers.bmwtechworks.ro/jobs"],
+  "scraperFile": "https://github.com/peviitor-scrapers/bmw-techworks-romania-nodejs-scraper/actions/workflows/scrape.yml"
+}

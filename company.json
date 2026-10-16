@@ -1,0 +1,88 @@
+{
+  "validatedAt": "2026-10-16T16:01:29.074Z",
+  "source": "ANAF",
+  "brand": "BMW TechWorks Romania",
+  "anaf": {
+    "cui": 49775344,
+    "name": "BMW TECHWORKS ROMANIA S.R.L.",
+    "address": "JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7",
+    "registrationNumber": "J2024001389126",
+    "phone": "0264406460",
+    "fax": "",
+    "postalCode": "",
+    "caenCode": "6210",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 15.03.2024",
+    "registrationDate": "2024-03-15",
+    "fiscalAuthority": "Administraţia Judeţeană a Finanţelor Publice Cluj",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON SI STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "2024-03-15",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Str. Ploieşti",
+      "number": "9",
+      "locality": "Mun. Cluj-Napoca",
+      "county": "CLUJ",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": {
+    "id": "49775344",
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "brand": "BMW TECHWORKS ROMANIA",
+    "status": "activ",
+    "location": [
+      "Municipiul Cluj-Napoca"
+    ],
+    "lastScraped": "2026-08-07",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Municipiul Cluj-Napoca, Cluj"
+    ],
+    "anafData": [
+      "{\"cif\":49775344,\"cui\":49775344,\"denumire\":\"BMW TECHWORKS ROMANIA S.R.L.\",\"company\":\"BMW TECHWORKS ROMANIA S.R.L.\",\"brand\":\"BMW TECHWORKS ROMANIA\",\"statusImpozit\":\"activ\",\"adresa\":\"Municipiul Cluj-Napoca, Cluj\",\"localitate\":\"Municipiul Cluj-Napoca\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1872854928594043000,
+    "_root_": "49775344"
+  },
+  "summary": {
+    "company": "BMW TECHWORKS ROMANIA S.R.L.",
+    "cif": "49775344",
+    "active": true,
+    "inactiveSince": null,
+    "address": "JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7"
+  }
+}
