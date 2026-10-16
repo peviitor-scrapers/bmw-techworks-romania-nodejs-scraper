@@ -287,6 +287,20 @@ const FEED_TAG_PATTERNS = [
   ["testing", /\b(testing|qa|test)\b/]
 ];
 
+// The feed double-encodes entities in titles (e.g. "Automation &amp; Embedded"),
+// which would otherwise reach peviitor verbatim.
+function decodeEntities(s) {
+  return s
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&nbsp;/g, " ")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'")
+    .replace(/&amp;/g, "&");
+}
+
 function extractFeedTags(title, description = "") {
   const text = `${title} ${description}`.toLowerCase();
   const tags = FEED_TAG_PATTERNS.filter(([, re]) => re.test(text)).map(([tag]) => tag);
@@ -299,14 +313,15 @@ function feedItemToJob(item) {
   const posting = item._jobposting || {};
   const places = [].concat(posting.jobLocation || []);
   const cities = [...new Set(places.map((p) => p?.address?.addressLocality).filter(Boolean))];
-  const title = cleanTitle(item.title);
+  const title = decodeEntities(cleanTitle(item.title) || "") || null;
   return {
     url: item.url,
     title,
     location: cities.length ? cities : locationFromTitle(title || ""),
     workmode: scraperConfig.defaultWorkmode,
     expirationdate: posting.validThrough ? parseDeadline(posting.validThrough) : undefined,
-    tags: extractFeedTags(title || "", textFromHtml(item.content_html || "") || ""),
+    // Title only: matching the whole description tags nearly every job "security"/"management".
+    tags: extractFeedTags(title || ""),
     source: CAREERS_SOURCE
   };
 }
@@ -798,7 +813,7 @@ async function main(dryRun = process.argv.includes("--dry-run")) {
   }
 }
 
-export { feedItemToJob, extractFeedTags, scrapeFeed, mapToJobModel, transformJobsForSOLR, scrapeCareers, fetchSitemapJobUrls, parseListing, slugify, matchSitemapUrl, matchSitemapUrlExact, parseDeadline, dropDeadUrls };
+export { feedItemToJob, extractFeedTags, decodeEntities, scrapeFeed, mapToJobModel, transformJobsForSOLR, scrapeCareers, fetchSitemapJobUrls, parseListing, slugify, matchSitemapUrl, matchSitemapUrlExact, parseDeadline, dropDeadUrls };
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main();

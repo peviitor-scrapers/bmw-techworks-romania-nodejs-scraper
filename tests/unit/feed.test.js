@@ -47,6 +47,16 @@ describe('JSON feed source', () => {
     expect(tags).toEqual(expect.arrayContaining(['java', 'it', 'senior', 'devops']));
   });
 
+  it('decodes HTML entities left in the feed title', () => {
+    const job = index.feedItemToJob({ ...item, title: 'Automation &amp; Embedded &#38; Test &quot;Lead&quot;' });
+    expect(job.title).toBe('Automation & Embedded & Test "Lead"');
+  });
+
+  it('does not tag a job from words that only appear in its long description', () => {
+    const job = index.feedItemToJob({ ...item, title: 'Office Assistant', content_html: '<p>security lead head manager devops</p>' });
+    expect(job.tags).toEqual([]);
+  });
+
   it('returns no tags for an unrelated title', () => {
     expect(index.extractFeedTags('Office Assistant', '')).toEqual([]);
   });

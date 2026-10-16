@@ -18,6 +18,7 @@ template version, which `automation-template-sync-check.yml` compares against).
 - `feedItemToJob` / `scrapeFeed` + unit tests (`tests/unit/feed.test.js`) and a
   live e2e check of the feed (`tests/e2e/feed.test.js`).
 - Config: `sources.feed`, `ownJobUrlPrefix` on the careers host, default workmode `hybrid`.
+- Decodes HTML entities in feed titles and derives tags from the title only.
 - Replaces the earlier personal-account scraper that wrote straight to Solr; jobs now
   go through the peviitor API (`/v1/scraper/jobs/upload/`).
 
