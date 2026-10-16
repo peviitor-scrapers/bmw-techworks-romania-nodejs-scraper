@@ -14,7 +14,7 @@
 
 ## Current Job Listings (14)
 
-_Generated: 2026-10-16T16:01:29.973Z_
+_Generated: 2026-10-16T16:04:56.353Z_
 
 ### Industrial Automation & Embedded Systems Engineer
 
