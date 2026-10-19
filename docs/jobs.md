@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
-## Current Job Listings (14)
+## Current Job Listings (12)
 
-_Generated: 2026-10-18T10:24:47.512Z_
+_Generated: 2026-10-19T12:08:32.253Z_
 
 ### Industrial Automation & Embedded Systems Engineer
 
@@ -48,14 +48,6 @@ _Generated: 2026-10-18T10:24:47.512Z_
 - **Tags:** it
 - **Status:** scraped
 
-### Senior Angular Developer
-
-- **URL:** [https://careers.bmwtechworks.ro/jobs/7636564-senior-angular-developer](https://careers.bmwtechworks.ro/jobs/7636564-senior-angular-developer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** it, javascript, senior
-- **Status:** scraped
-
 ### Software Builder / AI-Native Team
 
 - **URL:** [https://careers.bmwtechworks.ro/jobs/7601239-software-builder-ai-native-team](https://careers.bmwtechworks.ro/jobs/7601239-software-builder-ai-native-team)
@@ -78,14 +70,6 @@ _Generated: 2026-10-18T10:24:47.512Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** it, ai, senior
-- **Status:** scraped
-
-### Angular Developer
-
-- **URL:** [https://careers.bmwtechworks.ro/jobs/7485670-angular-developer](https://careers.bmwtechworks.ro/jobs/7485670-angular-developer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** it, javascript
 - **Status:** scraped
 
 ### MuleSoft Developer
