@@ -10,19 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (12)
+## Current Job Listings (10)
 
-_Generated: 2026-10-21T11:10:19.878Z_
-
-### Industrial Automation & Embedded Systems Engineer
-
-- **URL:** [https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer](https://careers.bmwtechworks.ro/jobs/8528985-industrial-automation-embedded-systems-engineer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** it, embedded
-- **Status:** scraped
+_Generated: 2026-10-22T11:09:44.529Z_
 
 ### DevOps Consultant with Genesys
 
@@ -94,14 +86,6 @@ _Generated: 2026-10-21T11:10:19.878Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** cloud
-- **Status:** scraped
-
-### Cyber Security Engineer
-
-- **URL:** [https://careers.bmwtechworks.ro/jobs/7242643-cyber-security-engineer](https://careers.bmwtechworks.ro/jobs/7242643-cyber-security-engineer)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** it, security
 - **Status:** scraped
 
 ### Platform Engineer with AWS
