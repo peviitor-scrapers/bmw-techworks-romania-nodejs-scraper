@@ -10,11 +10,18 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-10-22 |
+| Last Scraped | 2026-10-23 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-22T11:09:44.529Z_
+_Generated: 2026-10-23T11:01:36.434Z_
+
+### Linux Operation Specialist
+
+- **URL:** [https://careers.bmwtechworks.ro/jobs/8606884-linux-operation-specialist](https://careers.bmwtechworks.ro/jobs/8606884-linux-operation-specialist)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Status:** scraped
 
 ### DevOps Consultant with Genesys
 
@@ -78,14 +85,6 @@ _Generated: 2026-10-22T11:09:44.529Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** it, salesforce
-- **Status:** scraped
-
-### MLOps with AWS
-
-- **URL:** [https://careers.bmwtechworks.ro/jobs/7448193-mlops-with-aws](https://careers.bmwtechworks.ro/jobs/7448193-mlops-with-aws)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** cloud
 - **Status:** scraped
 
 ### Platform Engineer with AWS
