@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (10)
+## Current Job Listings (11)
 
-_Generated: 2026-10-27T11:36:44.097Z_
+_Generated: 2026-10-28T12:10:13.531Z_
 
 ### Linux Operation Specialist
 
@@ -85,6 +85,13 @@ _Generated: 2026-10-27T11:36:44.097Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** it, salesforce
+- **Status:** scraped
+
+### Business Analyst
+
+- **URL:** [https://careers.bmwtechworks.ro/jobs/7484361-business-analyst](https://careers.bmwtechworks.ro/jobs/7484361-business-analyst)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### Platform Engineer with AWS
