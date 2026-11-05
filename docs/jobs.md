@@ -10,11 +10,19 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (9)
+## Current Job Listings (11)
 
-_Generated: 2026-11-04T13:47:32.655Z_
+_Generated: 2026-11-05T13:59:31.701Z_
+
+### Java Developer
+
+- **URL:** [https://careers.bmwtechworks.ro/jobs/7194542-java-developer](https://careers.bmwtechworks.ro/jobs/7194542-java-developer)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** it, java
+- **Status:** scraped
 
 ### Linux Operation Specialist
 
@@ -53,6 +61,14 @@ _Generated: 2026-11-04T13:47:32.655Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** management
+- **Status:** scraped
+
+### Platform Engineer with Azure
+
+- **URL:** [https://careers.bmwtechworks.ro/jobs/7484991-platform-engineer-with-azure](https://careers.bmwtechworks.ro/jobs/7484991-platform-engineer-with-azure)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** it, cloud
 - **Status:** scraped
 
 ### MuleSoft Developer
