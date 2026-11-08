@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-07 |
+| Last Scraped | 2026-11-08 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-07T12:27:32.414Z_
+_Generated: 2026-11-08T12:45:44.779Z_
 
 ### Java Developer
 
