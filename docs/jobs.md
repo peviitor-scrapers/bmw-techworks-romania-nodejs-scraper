@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
-## Current Job Listings (11)
+## Current Job Listings (12)
 
-_Generated: 2026-11-08T12:45:44.779Z_
+_Generated: 2026-11-09T15:11:33.582Z_
 
 ### Java Developer
 
@@ -22,6 +22,14 @@ _Generated: 2026-11-08T12:45:44.779Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** it, java
+- **Status:** scraped
+
+### Data Engineer with AWS
+
+- **URL:** [https://careers.bmwtechworks.ro/jobs/8691293-data-engineer-with-aws](https://careers.bmwtechworks.ro/jobs/8691293-data-engineer-with-aws)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** it, data, cloud
 - **Status:** scraped
 
 ### Linux Operation Specialist
