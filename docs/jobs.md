@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-16T14:47:45.776Z_
+_Generated: 2026-11-17T15:29:50.704Z_
 
 ### Data Engineer with AWS
 
