@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-22T14:03:07.133Z_
+_Generated: 2026-11-23T17:24:24.304Z_
 
 ### Data Engineer with AWS
 
@@ -47,9 +47,9 @@ _Generated: 2026-11-22T14:03:07.133Z_
 - **Tags:** it
 - **Status:** scraped
 
-### Compliance Chief Officer
+### Chief Compliance Officer
 
-- **URL:** [https://careers.bmwtechworks.ro/jobs/7736754-compliance-chief-officer](https://careers.bmwtechworks.ro/jobs/7736754-compliance-chief-officer)
+- **URL:** [https://careers.bmwtechworks.ro/jobs/7736754-chief-compliance-officer](https://careers.bmwtechworks.ro/jobs/7736754-chief-compliance-officer)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** management
