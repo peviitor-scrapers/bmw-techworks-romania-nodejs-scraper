@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
 ## Current Job Listings (11)
 
-_Generated: 2026-11-23T17:24:24.304Z_
+_Generated: 2026-11-24T16:58:06.791Z_
 
 ### Data Engineer with AWS
 
@@ -55,9 +55,9 @@ _Generated: 2026-11-23T17:24:24.304Z_
 - **Tags:** management
 - **Status:** scraped
 
-### Unit Head
+### Delivery Manager
 
-- **URL:** [https://careers.bmwtechworks.ro/jobs/7500732-unit-head](https://careers.bmwtechworks.ro/jobs/7500732-unit-head)
+- **URL:** [https://careers.bmwtechworks.ro/jobs/7500732-delivery-manager](https://careers.bmwtechworks.ro/jobs/7500732-delivery-manager)
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** management
