@@ -10,11 +10,11 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. PLOIEŞTI, NR.9, COMPLEX CENTRAL BUSINESS PLAZA (CBP). PARTER. ETAJELE 1.2.3.5 ȘI 7 |
 | Website | [https://www.bmwtechworks.ro](https://www.bmwtechworks.ro) |
 | Careers | [https://careers.bmwtechworks.ro/jobs](https://careers.bmwtechworks.ro/jobs) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
-## Current Job Listings (12)
+## Current Job Listings (13)
 
-_Generated: 2026-11-25T16:48:14.759Z_
+_Generated: 2026-11-26T16:24:07.702Z_
 
 ### Java Developer
 
@@ -61,6 +61,14 @@ _Generated: 2026-11-25T16:48:14.759Z_
 - **Work Mode:** hybrid
 - **Location:** Cluj-Napoca
 - **Tags:** management
+- **Status:** scraped
+
+### Senior Angular Developer
+
+- **URL:** [https://careers.bmwtechworks.ro/jobs/7636564-senior-angular-developer](https://careers.bmwtechworks.ro/jobs/7636564-senior-angular-developer)
+- **Work Mode:** hybrid
+- **Location:** Cluj-Napoca
+- **Tags:** it, javascript, senior
 - **Status:** scraped
 
 ### Delivery Manager
